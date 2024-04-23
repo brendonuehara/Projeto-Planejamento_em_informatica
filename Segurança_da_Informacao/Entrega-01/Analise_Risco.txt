@@ -1,0 +1,145 @@
+
+Riscos Identificados:
+
+Ataques de malware: Infecção por vírus, worms, trojans, etc.
+
+Phishing: Tentativas de enganar funcionários para obter informações confidenciais.
+
+Ataques de engenharia social: Manipulação psicológica para obter acesso não autorizado a informações.
+
+Vazamento de dados confidenciais: Roubo ou exposição não autorizada de informações sensíveis.
+
+Ataques de negação de serviço (DDoS): Sobrecarga de servidores ou redes, causando interrupção do serviço.
+
+Ataques de ransomware: Criptografia de dados por hackers em troca de resgate.
+
+Falhas de segurança de software: Vulnerabilidades em sistemas operacionais, aplicativos ou firmware.
+
+Falhas de segurança de hardware: Vulnerabilidades em dispositivos físicos, como roteadores ou firewalls.
+
+Ataques de força bruta: Tentativas repetidas de login para adivinhar credenciais de usuário.
+
+Furto ou perda de dispositivos: Roubo ou extravio de laptops, celulares ou unidades USB.
+
+Acesso não autorizado: Funcionários ou terceiros obtendo acesso não autorizado a sistemas ou áreas restritas.
+
+Espionagem corporativa: Coleta de informações confidenciais por concorrentes ou agentes externos.
+
+Fraude financeira: Manipulação de transações ou desvio de fundos por funcionários internos.
+
+Vulnerabilidades de rede Wi-Fi: Acesso não autorizado à rede sem fio da empresa.
+
+Falhas de backup e recuperação de desastres: Incapacidade de recuperar dados após uma falha ou desastre.
+
+Exploração de falhas de segurança física: Entrada não autorizada em instalações ou data centers.
+
+Ataques de injeção SQL: Inserção maliciosa de código SQL em formulários web ou bancos de dados.
+
+Roubo de identidade: Uso não autorizado de informações pessoais para acessar contas ou serviços.
+
+Falhas de conformidade regulatória: Não conformidade com regulamentos de privacidade, como GDPR ou LGPD.
+
+Desastres naturais: Eventos como incêndios, enchentes ou terremotos que podem interromper as operações.
+
+
+
+Análise de Riscos:
+
+Ataques de malware:
+Impacto: Alto (pode resultar em perda de dados, interrupção dos negócios, danos à reputação).
+Probabilidade de ocorrência: Moderada a Alta (depende da eficácia das medidas de segurança e da conscientização dos usuários).
+
+
+Phishing:
+Impacto: Moderado a Alto (pode levar a roubo de credenciais, acesso não autorizado a informações confidenciais).
+Probabilidade de ocorrência: Moderada (depende da capacidade dos atacantes e da conscientização dos usuários).
+
+
+Ataques de engenharia social:
+Impacto: Moderado a Alto (pode resultar em divulgação de informações sensíveis ou acesso não autorizado).
+Probabilidade de ocorrência: Baixa a Moderada (depende da sofisticação dos ataques e da conscientização dos funcionários).
+
+
+Vazamento de dados confidenciais:
+Impacto: Alto (pode resultar em danos à reputação, multas regulatórias, perda de confiança dos clientes).
+Probabilidade de ocorrência: Moderada (depende da eficácia das medidas de segurança e do valor dos dados para os atacantes).
+
+
+Ataques de negação de serviço (DDoS):
+Impacto: Alto (pode resultar em indisponibilidade dos serviços, perda de receita, danos à reputação).
+Probabilidade de ocorrência: Baixa a Moderada (depende da visibilidade e importância da empresa para os atacantes).
+
+
+Ataques de ransomware:
+Impacto: Alto (pode resultar em perda de dados, interrupção dos negócios, danos financeiros significativos).
+Probabilidade de ocorrência: Moderada (depende da exposição da empresa e da eficácia das medidas de segurança).
+
+
+Falhas de segurança de software:
+Impacto: Moderado a Alto (pode resultar em acesso não autorizado, vazamento de dados, interrupção dos serviços).
+Probabilidade de ocorrência: Moderada (depende da quantidade e gravidade das vulnerabilidades presentes nos sistemas).
+
+
+Falhas de segurança de hardware:
+Impacto: Moderado (pode resultar em interrupção dos serviços, perda de dados, acesso não autorizado).
+Probabilidade de ocorrência: Baixa a Moderada (depende da qualidade e manutenção dos dispositivos físicos).
+
+
+Ataques de força bruta:
+Impacto: Baixo a Moderado (pode resultar em acesso não autorizado, comprometimento de contas de usuário).
+Probabilidade de ocorrência: Moderada (depende da exposição dos sistemas e da capacidade dos atacantes).
+
+
+Furto ou perda de dispositivos:
+Impacto: Moderado (pode resultar em perda de dados, acesso não autorizado, comprometimento da segurança).
+Probabilidade de ocorrência: Moderada (depende das práticas de segurança física e conscientização dos funcionários).
+
+
+Acesso não autorizado:
+Impacto: Moderado (pode resultar em divulgação de informações sensíveis, comprometimento da integridade dos dados).
+Probabilidade de ocorrência: Moderada (depende da eficácia dos controles de acesso e da conscientização dos funcionários).
+
+
+Espionagem corporativa:
+Impacto: Moderado a Alto (pode resultar em perda de dados confidenciais, comprometimento da estratégia empresarial).
+Probabilidade de ocorrência: Baixa a Moderada (depende do interesse de concorrentes ou agentes externos).
+
+
+Fraude financeira:
+Impacto: Moderado a Alto (pode resultar em perdas financeiras significativas, danos à reputação).
+Probabilidade de ocorrência: Baixa a Moderada (depende da presença de controles financeiros e da integridade dos funcionários).
+
+
+Vulnerabilidades de rede Wi-Fi:
+Impacto: Moderado (pode resultar em acesso não autorizado à rede, vazamento de informações).
+Probabilidade de ocorrência: Moderada (depende da segurança da rede Wi-Fi e da visibilidade externa da empresa).
+
+
+Falhas de backup e recuperação de desastres:
+Impacto: Alto (pode resultar em perda irreparável de dados, interrupção prolongada dos negócios).
+Probabilidade de ocorrência: Baixa a Moderada (depende da qualidade dos processos de backup e da prevenção de desastres).
+
+
+Exploração de falhas de segurança física:
+Impacto: Moderado a Alto (pode resultar em acesso não autorizado a instalações críticas, perda de equipamentos).
+Probabilidade de ocorrência: Baixa a Moderada (depende da eficácia dos controles de segurança física).
+
+
+Ataques de injeção SQL:
+Impacto: Moderado a Alto (pode resultar em acesso não autorizado a dados sensíveis, comprometimento da integridade dos dados).
+Probabilidade de ocorrência: Moderada (depende da presença de vulnerabilidades nos sistemas e da exposição a ataques).
+
+
+Roubo de identidade:
+Impacto: Moderado (pode resultar em comprometimento de contas pessoais e corporativas, perda de dados sensíveis).
+Probabilidade de ocorrência: Baixa a Moderada (depende da exposição dos dados pessoais e da sofisticação dos atacantes).
+
+
+Falhas de conformidade regulatória:
+Impacto: Moderado a Alto (pode resultar em multas regulatórias, perda de confiança dos clientes).
+Probabilidade de ocorrência: Baixa a Moderada (depende do escopo das regulamentações aplicáveis e do cumprimento dos requisitos).
+
+
+Desastres naturais:
+Impacto: Alto (pode resultar em danos físicos às instalações, interrupção prolongada dos negócios).
+Probabilidade de ocorrência: Baixa a Moderada (depende da localização geográfica e da frequência de desastres na região).
