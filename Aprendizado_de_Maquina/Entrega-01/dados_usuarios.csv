@@ -1,0 +1,42 @@
+nome,idade,tipo_pagamento,tipo_produto,status_pedido,data_pedido,codigo_rastreio,valor_pago
+Ana Silva,34,boleto,eletrônico,entregue,2024-04-01,AS123456789,150.00
+Lucas Oliveira,29,cartão de crédito,produto de beleza,em rota,2024-04-02,LO987654321,80.00
+Maria Souza,42,pix,alimento,pendente,2024-04-03,MS456789123,200.00
+João Santos,38,boleto,vestuário,entregue,2024-04-04,JS789123456,90.00
+Carla Lima,27,pix,eletrônico,em rota,2024-04-05,CL321654987,120.00
+Pedro Costa,45,cartão de crédito,ferramentas,entregue,2024-04-06,PC654987321,300.00
+Juliana Pereira,31,boleto,brinquedos,pendente,2024-04-07,JP987321654,50.00
+Rafaela Oliveira,36,pix,artigos esportivos,em rota,2024-04-08,RO321987654,180.00
+Fernando Silva,40,cartão de crédito,acessórios automotivos,entregue,2024-04-09,FS654321987,250.00
+André Santos,33,boleto,livros,entregue,2024-04-10,AS987654321,70.00
+Luana Costa,28,pix,móveis,em rota,2024-04-11,LC321987654,400.00
+Gabriel Lima,39,cartão de crédito,eletrônicos,pendente,2024-04-12,GL987654321,800.00
+Patricia Oliveira,32,boleto,decoração,entregue,2024-04-13,PO654321987,100.00
+Daniel Souza,47,pix,produtos de jardinagem,em rota,2024-04-14,DS321987654,150.00
+Ana Paula Costa,26,cartão de crédito,artigos de papelaria,entregue,2024-04-15,AP987654321,90.00
+Roberto Santos,35,boleto,jogos de tabuleiro,pendente,2024-04-16,RS654321987,60.00
+Carolina Oliveira,30,pix,instrumentos musicais,em rota,2024-04-17,CO321987654,300.00
+Marcelo Silva,44,cartão de crédito,acessórios de moda,entregue,2024-04-18,MS987654321,200.00
+Bruna Lima,29,boleto,utensílios domésticos,pendente,2024-04-19,BL654321987,80.00
+Marcos Oliveira,43,pix,artigos de pesca,em rota,2024-04-20,MO321987654,120.00
+Vanessa Souza,37,cartão de crédito,perfumes,entregue,2024-04-21,VS987654321,150.00
+Rodrigo Costa,31,boleto,artesanato,pendente,2024-04-22,RC654321987,40.00
+Isabela Santos,46,pix,produtos de escritório,em rota,2024-04-23,IS321987654,90.00
+Renato Oliveira,25,cartão de crédito,acessórios para celular,entregue,2024-04-24,RO987654321,180.00
+Julio Lima,38,boleto,filmagem e fotografia,pendente,2024-04-25,JL654321987,300.00
+Tatiana Costa,27,pix,artigos para camping,em rota,2024-04-26,TC321987654,100.00
+Lucas Silva,41,cartão de crédito,jogos eletrônicos,entregue,2024-04-27,LS987654321,250.00
+Carla Santos,34,boleto,ferramentas de jardinagem,pendente,2024-04-28,CS654321987,80.00
+Gustavo Oliveira,28,pix,brinquedos educativos,em rota,2024-04-29,GO321987654,110.00
+Mariana Souza,39,cartão de crédito,artigos para bebê,entregue,2024-04-30,MS987654321,180.00
+Andreia Lima,33,boleto,instrumentos de cozinha,pendente,2024-05-01,AL654321987,60.00
+Felipe Oliveira,48,pix,material de escrita e desenho,em rota,2024-05-02,FO321987654,70.00
+Ana Paula Santos,30,cartão de crédito,acessórios para pets,entregue,2024-05-03,AS987654321,130.00
+Leandro Costa,36,boleto,artigos de jardinagem,pendente,2024-05-04,LC654321987,90.00
+Jéssica Oliveira,31,pix,produtos para beleza,em rota,2024-05-05,JO321987654,75.00
+Ricardo Santos,40,cartão de crédito,brinquedos infantis,entregue,2024-05-06,RS987654321,200.00
+Vanessa Lima,26,boleto,artigos para festas,pendente,2024-05-07,VL654321987,50.00
+Paulo Souza,35,pix,acessórios para bicicleta,em rota,2024-05-08,PS321987654,300.00
+Sandra Oliveira,42,cartão de crédito,roupas infantis,entregue,2024-05-09,SO987654321,180.00
+Fernando Costa,29,boleto,artigos para churrasco,pendente,2024-05-10,FC654321987,100.00
+Amanda Santos,37,pix,material para artesanato,em rota,2024-05-11,AS321987654,150.00
