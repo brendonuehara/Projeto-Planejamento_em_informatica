@@ -1,0 +1,24 @@
+
+Classe de rede: Classe C (192.168.0.1) a (192.168.0.254)
+
+
+Padrão de Rede:
+
+Administração e Operações:
+Faixa de endereços IP: 192.168.0.1 a 192.168.0.49
+
+
+Armazém e Estoque:
+Faixa de endereços IP: 192.168.0.50 a 192.168.0.99
+
+
+Transporte e Distribuição:
+Faixa de endereços IP: 192.168.0.100 a 192.168.0.149
+
+
+Atendimento ao Cliente e Logística Reversa:
+Faixa de endereços IP: 192.168.0.150 a 192.168.0.199
+
+
+Tecnologia da Informação (TI) e Sistemas de Informação Logística:
+Faixa de endereços IP: 192.168.0.200 a 192.168.0.254
