@@ -1,0 +1,101 @@
+
+Política de Controle de Acesso: 
+
+Princípio do menor privilégio:
+Política que concede aos usuários apenas os privilégios de acesso necessários para realizar suas funções, minimizando assim o risco de acesso não autorizado a informações sensíveis.
+
+
+Autenticação de dois fatores (2FA):
+Política que requer autenticação de dois fatores para acessar sistemas ou informações críticas, reduzindo o risco de acesso não autorizado em caso de comprometimento de credenciais.
+
+
+Política de senha forte:
+Política que define requisitos rigorosos para senhas, como comprimento mínimo, uso de caracteres especiais e atualização periódica, visando proteger contra ataques de força bruta e 
+comprometimento de contas.
+
+
+Monitoramento de acesso e auditoria:
+Política que estabelece a monitorização contínua dos acessos aos sistemas e informações sensíveis, registrando atividades de usuário e realizando auditorias regulares para 
+identificar possíveis anomalias ou comportamentos suspeitos.
+
+
+Controle de acesso físico:
+Política que estabelece medidas de segurança física, como sistemas de controle de acesso com cartões de identificação, para proteger instalações e equipamentos contra acesso
+não autorizado.
+
+
+Gerenciamento de identidades e acessos (IAM):
+Política que define processos e procedimentos para gerenciar de forma eficaz as identidades dos usuários, atribuir e revogar acessos de acordo com as necessidades operacionais e 
+garantir a conformidade regulatória.
+
+
+Restrição de acesso a dados confidenciais:
+Política que restringe o acesso a informações confidenciais apenas a usuários autorizados, implementando controles de acesso baseados em funções (RBAC) ou criptografia de dados.
+
+
+Política de acesso remoto seguro:
+Política que estabelece requisitos para conexões remotas, como o uso de VPNs (Redes Privadas Virtuais) e autenticação multifator, para garantir a segurança das comunicações e 
+dos dados durante o acesso remoto.
+
+
+Revisão periódica de acessos:
+Política que estabelece revisões regulares dos direitos de acesso dos usuários, removendo acessos desnecessários ou não utilizados e garantindo que os privilégios de acesso estejam 
+alinhados com as responsabilidades do usuário.
+
+
+Treinamento de conscientização em segurança:
+Política que requer treinamento regular para todos os funcionários sobre práticas de segurança, incluindo a importância do controle de acesso, reconhecimento de ameaças cibernéticas e 
+procedimentos de resposta a incidentes.
+
+
+
+Sistema de Detecção de Intrusão:
+
+Firewalls de Próxima Geração (NGFW):
+Implementar firewalls NGFW que oferecem funcionalidades avançadas de inspeção de tráfego para identificar e bloquear ameaças de rede, como ataques de negação de serviço (DDoS),
+ malware e tentativas de intrusão.
+
+
+Sistemas de Detecção e Prevenção de Intrusões (IDS/IPS):
+Configurar IDS/IPS para monitorar o tráfego de rede em tempo real e identificar atividades suspeitas ou maliciosas, como tentativas de exploração de vulnerabilidades 
+ou tráfego anômalo.
+
+
+Análise de Comportamento de Usuários (UBA):
+Implementar sistemas de UBA para monitorar o comportamento dos usuários e identificar atividades incomuns ou maliciosas, como acessos a recursos não autorizados
+ ou transferências de dados suspeitas.
+
+
+Sistemas de Detecção de Malware:
+Utilizar soluções de detecção de malware que empregam técnicas avançadas, como análise heurística e sandboxing, para identificar e bloquear ameaças de malware em tempo real.
+
+
+Monitoramento de Logs de Segurança:
+Configurar sistemas de monitoramento de logs para coletar e analisar registros de eventos de segurança em toda a infraestrutura, permitindo a detecção precoce de 
+atividades suspeitas ou violações de segurança.
+
+
+Segmentação de Rede:
+Implementar segmentação de rede para dividir a infraestrutura em zonas isoladas e controlar o tráfego entre elas, reduzindo assim a superfície de ataque e limitando o impacto de
+ um eventual comprometimento.
+
+
+Atualizações e Patches de Segurança:
+Manter todos os sistemas e software atualizados com os patches de segurança mais recentes para corrigir vulnerabilidades conhecidas e reduzir o risco de exploração por parte de 
+invasores.
+
+
+Políticas de Acesso e Controle de Privacidade:
+Implementar políticas de acesso granular e controle de privacidade para restringir o acesso a informações sensíveis apenas a usuários autorizados e garantir a conformidade com 
+regulamentos de privacidade, como GDPR ou LGPD.
+
+
+Monitoramento de Atividade de Administradores:
+Monitorar e registrar as atividades dos administradores de sistema para detectar comportamentos suspeitos ou não autorizados, como acessos fora do horário de expediente ou
+modificações não autorizadas de configurações.
+
+
+Treinamento em Conscientização de Segurança:
+Fornecer treinamento regular em conscientização de segurança para todos os funcionários, destacando os riscos de segurança, boas práticas de segurança e procedimentos de relato 
+de incidentes.
+
