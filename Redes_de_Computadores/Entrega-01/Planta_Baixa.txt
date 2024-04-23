@@ -1,0 +1,63 @@
+
+Departamentos:
+
+- Administração e Operações:
+ Este departamento é responsável pela gestão geral da empresa de logística, incluindo administração, finanças, recursos humanos e planejamento operacional. 
+ Pode incluir escritórios para a equipe de administração, contabilidade, planejamento de rotas, etc.
+
+- Armazém e Estoque:
+ Este departamento gerencia as operações de armazenagem e controle de estoque da empresa.
+ Pode incluir áreas de armazenagem, salas de estoque, áreas de recebimento e expedição, bem como escritórios para a equipe de gestão de armazém.
+
+- Transporte e Distribuição:
+ Este departamento é responsável pela gestão da frota de transporte e pela distribuição eficiente de mercadorias. 
+ Pode incluir áreas para a manutenção de veículos, áreas de carregamento e descarregamento, escritórios para despachantes e coordenadores de transporte.
+
+- Atendimento ao Cliente e  Logística Reversa:
+ Este departamento lida com todas as interações com os clientes, incluindo solicitações de transporte, rastreamento de remessas, resolução de problemas e logística reversa (devoluções). 
+ Pode incluir uma área de atendimento ao cliente com estações de trabalho, salas de reuniões para treinamento de equipe, etc.
+
+- Tecnologia da Informação(TI) e Sistemas de Informação Logística:
+ Este departamento é responsável por gerenciar a infraestrutura de tecnologia da empresa, incluindo sistemas de rastreamento de remessas, software de gerenciamento de armazém e sistemas de gestão de transporte.
+ Pode incluir salas de servidores, estações de trabalho para técnicos, salas de reuniões para equipe de TI, etc.
+
+
+
+ Equipamentos:
+
+Administração e Operações:
+Computadores e equipamentos de escritório (mesas, cadeiras, armários).
+Impressoras, scanners e outros dispositivos de escritório.
+Software de gestão empresarial (ERP) para controle financeiro, recursos humanos e operações.
+Telefones e sistemas de comunicação interna.
+Mobiliário para salas de reuniões e áreas de descanso.
+
+
+Armazém e Estoque:
+Equipamentos de movimentação de carga (empilhadeiras, paleteiras, carrinhos de mão).
+Sistemas de armazenagem (estantes, prateleiras, paletes).
+Equipamentos de medição e pesagem (balanças, fitas métricas).
+Softwares de gestão de estoque e controle de armazém.
+Equipamentos de segurança (câmeras de vigilância, alarmes, extintores de incêndio).
+
+
+Transporte e Distribuição:
+Veículos de transporte (caminhões, vans, carros de entrega).
+Equipamentos de comunicação (rádios, dispositivos de GPS).
+Ferramentas de manutenção de veículos (chaves, macacos, ferramentas de reparo).
+Documentação de transporte (etiquetas, notas fiscais, documentos de transporte).
+
+
+Atendimento ao Cliente e Logística Reversa:
+Computadores e equipamentos de escritório para atendimento ao cliente.
+Softwares de gestão de relacionamento com o cliente (CRM).
+Telefones e sistemas de comunicação para contato com clientes.
+Equipamentos de embalagem e envio para logística reversa.
+
+
+Tecnologia da Informação (TI) e Sistemas de Informação Logística:
+Servidores de rede e equipamentos de infraestrutura de TI.
+Computadores e dispositivos para equipe de suporte técnico.
+Equipamentos de rede (roteadores, switches, cabos).
+Software de segurança cibernética e firewalls.
+Sistemas de rastreamento de remessas e softwares de logística.
