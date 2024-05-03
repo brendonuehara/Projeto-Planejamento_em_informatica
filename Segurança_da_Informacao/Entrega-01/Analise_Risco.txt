@@ -42,6 +42,8 @@ Falhas de conformidade regulatória: Não conformidade com regulamentos de priva
 Desastres naturais: Eventos como incêndios, enchentes ou terremotos que podem interromper as operações.
 
 
+////
+
 
 Análise de Riscos:
 
