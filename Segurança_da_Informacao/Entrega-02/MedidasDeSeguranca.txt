@@ -48,6 +48,8 @@ Política que requer treinamento regular para todos os funcionários sobre prát
 procedimentos de resposta a incidentes.
 
 
+////
+
 
 Sistema de Detecção de Intrusão:
 
