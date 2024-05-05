@@ -1,0 +1,7 @@
+
+Tabelas Normalizadas:
+ -Serviços ao Cliente (ID_Cliente, Nome, Email, Endereco, Num_Endereco, DDD, Telefone)
+ -Compra (ID_Pedido, ID_Cliente, ID_Produto, Tipo_Pagamento, Data_Pedido, Valor)
+ -Procedimento do Pedido (Status_Pedido, ID_Rastreamento, ID_Pedido, ID_Produto, ID_Cliente)
+ -Estoque (ID_Produto, Tipo_Produto, Nome_Produto, Quantidade_Produto)
+ -Transporte (ID_Rastreamento, ID_Cliente, ID_Pedido, ID_Produto, Status_Pedido)
