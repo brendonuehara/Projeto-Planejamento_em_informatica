@@ -1,3 +1,8 @@
+from scipy import stats
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 # Extraindo dados do arquivo csv
 import pandas as pd
 
@@ -10,7 +15,6 @@ dados_limpos = tabela.dropna()
 
 dados_limpos = tabela.dropna(axis=1)
 
-from scipy import stats
 
 z_scores = stats.zscore(tabela['valor_pago'])
 
@@ -25,10 +29,6 @@ tabela.loc[tabela['idade'] < 0, 'valor_pago'] = 0
 tabela['valor_pago'] = tabela['valor_pago'].apply(lambda x: x * 1000 if x < 1000 else x)
 
 # Matriz Confusão
-
-from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 y_true = [1, 0, 1, 1, 0, 1]
 
