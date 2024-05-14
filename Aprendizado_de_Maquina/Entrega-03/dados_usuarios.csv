@@ -1,0 +1,15 @@
+nome,idade,tipo_pagamento,tipo_produto,status_pedido,data_pedido,codigo_rastreio,valor_pago
+Ana Silva,34,boleto,eletrônico,entregue,2024-04-01,AS123456789,150.00
+Lucas Oliveira,29,cartão de crédito,produto de beleza,em rota,2024-04-02,LO987654321,80.00
+Maria Souza,42,pix,alimento,pendente,2024-04-03,MS456789123,200.00
+João Santos,38,boleto,vestuário,entregue,2024-04-04,JS789123456,90.00
+Carla Lima,27,pix,eletrônico,em rota,2024-04-05,CL321654987,120.00
+Pedro Costa,45,cartão de crédito,ferramentas,entregue,2024-04-06,PC654987321,300.00
+Rafaela Oliveira,36,pix,artigos esportivos,em rota,2024-04-08,RO321987654,180.00
+Fernando Silva,40,cartão de crédito,acessórios automotivos,entregue,2024-04-09,FS654321987,250.00
+André Santos,33,boleto,livros,entregue,2024-04-10,AS987654321,70.00
+Luana Costa,28,pix,móveis,em rota,2024-04-11,LC321987654,400.00
+Gabriel Lima,39,cartão de crédito,eletrônicos,pendente,2024-04-12,GL987654321,800.00
+Patricia Oliveira,32,boleto,decoração,entregue,2024-04-13,PO654321987,100.00
+Daniel Souza,47,pix,produtos de jardinagem,em rota,2024-04-14,DS321987654,150.00
+Roberto Santos,35,boleto,jogos de tabuleiro,pendente,2024-04-16,RS654321987,60.00

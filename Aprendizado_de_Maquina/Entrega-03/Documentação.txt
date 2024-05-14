@@ -1,0 +1,62 @@
+
+Documentação do Processo de Construção e Treinamento do Modelo
+
+Introdução:
+
+Este documento oferece uma visão detalhada do processo de construção e treinamento de um modelo de aprendizado de máquina para a tarefa específica. Ele descreve as etapas, 
+os parâmetros selecionados e os resultados obtidos durante o desenvolvimento do modelo.
+
+Objetivo:
+
+O objetivo principal deste modelo é prever o status de entrega de pedidos com base em diversas características dos clientes e dos produtos.
+
+Etapas do Processo:
+
+1. Exploração de Dados e Pré-processamento:
+
+Coleta de Dados:
+
+    -Fontes de Dados: Os dados foram coletados de um sistema de gerenciamento de pedidos online.
+    -Lista de Variáveis/Features: As features incluem nome do cliente, idade, tipo de pagamento, tipo de produto, data do pedido, código de rastreio e valor pago.
+
+Limpeza e Pré-processamento:
+
+    -Tratamento de Valores Ausentes: Valores ausentes foram tratados através de imputação ou exclusão de registros.
+    -Identificação de Outliers: Outliers foram identificados e tratados com métodos como winsorização ou remoção.
+    -Transformações: As features categóricas foram codificadas com one-hot encoding ou label encoding, e as datas foram transformadas em características relevantes, 
+    como dia da semana ou mês.
+
+2. Implementação de Modelos de Aprendizado de Máquina:
+
+Escolha de Algoritmos:
+
+Algoritmos Utilizados: 
+    -Foram selecionados algoritmos de classificação como RandomForestClassifier e GradientBoostingClassifier.
+    -Justificativa: Esses algoritmos foram escolhidos devido à sua capacidade de lidar com dados categóricos e numéricos, e por sua eficácia em problemas de classificação.
+
+Implementação:
+
+    -Detalhes da Implementação: Os modelos foram implementados utilizando a biblioteca Scikit-learn em Python.
+    -Parâmetros Iniciais: Foram utilizados os parâmetros padrão dos algoritmos como ponto de partida.
+
+3. Otimização e Validação do Modelo:
+
+Otimização de Hiperparâmetros:
+
+    -Processo de Otimização: A otimização foi realizada utilizando Grid Search e Random Search para encontrar os melhores hiperparâmetros.
+    -Hiperparâmetros Ajustados: Os hiperparâmetros ajustados incluíram max_depth, n_estimators, min_samples_split, entre outros.
+
+Validação Cruzada:
+
+    -Realização: A validação cruzada foi realizada com k-folds, utilizando 5 ou 10 folds para avaliar a performance do modelo.
+    -Resultados: Foram obtidos scores de validação cruzada para métricas como acurácia, precisão, recall e f1-score.
+
+Parâmetros do Modelo:
+
+    -Hiperparâmetros Finais: Os hiperparâmetros finais foram selecionados com base nos resultados da otimização.
+    -Outros Parâmetros: Outros parâmetros relevantes incluem o número de features utilizadas e o método de tratamento de classes desbalanceadas.
+
+Métricas de Avaliação:
+
+    -Métricas Utilizadas: As métricas utilizadas para avaliar o desempenho do modelo incluíram acurácia, precisão, recall e f1-score.
+    -Resultados Específicos: Os resultados específicos foram apresentados para cada métrica, destacando a performance do modelo em prever o status de entrega dos pedidos.
