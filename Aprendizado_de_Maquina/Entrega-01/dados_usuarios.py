@@ -15,7 +15,6 @@ dados_limpos = tabela.dropna()
 
 dados_limpos = tabela.dropna(axis=1)
 
-
 z_scores = stats.zscore(tabela['valor_pago'])
 
 outliers = tabela[(z_scores > 3) | (z_scores < -3)]
@@ -24,7 +23,7 @@ dados_inconsistentes = tabela[tabela['idade'] < 0]
 dados_inconsistentes = tabela[tabela['valor_pago'] < 0]
 
 tabela.loc[tabela['idade'] < 0, 'idade'] = 0
-tabela.loc[tabela['idade'] < 0, 'valor_pago'] = 0
+tabela.loc[tabela['valor_pago'] < 0, 'valor_pago'] = 0
 
 tabela['valor_pago'] = tabela['valor_pago'].apply(lambda x: x * 1000 if x < 1000 else x)
 
