@@ -6,7 +6,7 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import f1_score
 
 
-dados = pd.read_csv("Aprendizado_de_Maquina/Entrega-01/dados_usuarios.csv", sep=",")
+dados = pd.read_csv("CSV/dados_usuarios.csv", sep=",")
 
 X = dados.drop(columns=["status_pedido", "data_pedido", "codigo_rastreio"])
 y = dados["status_pedido"]
