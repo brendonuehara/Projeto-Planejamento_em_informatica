@@ -6,7 +6,7 @@ import seaborn as sns
 # Extraindo dados do arquivo csv
 import pandas as pd
 
-tabela = pd.read_csv("Aprendizado_de_Maquina/Entrega-01/dados_usuarios.csv", sep=",")
+tabela = pd.read_csv("CSV/dados_usuarios.csv", sep=",")
 print(tabela)
 
 # Tratamentos dos dados
