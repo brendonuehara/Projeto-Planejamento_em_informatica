@@ -12,7 +12,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
-dados = pd.read_csv("Ciencia_de_Dados/Entrega-02/dados_usuarios.csv", sep=",""")
+dados = pd.read_csv("CSV/dados_usuarios.csv", sep=",""")
 
 ##Parte 01
 
