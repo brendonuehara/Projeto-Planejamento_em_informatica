@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-dados = pd.read_csv("Ciencia_de_Dados/Entrega-01/dados_usuarios.csv", sep=",")
+dados = pd.read_csv("CSV/dados_usuarios.csv", sep=",")
 
 #Parte 01
 
