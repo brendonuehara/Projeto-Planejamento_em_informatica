@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import cross_val_score
 
-dados = pd.read_csv("Aprendizado_de_Maquina/Entrega-01/dados_usuarios.csv", sep=",")
+dados = pd.read_csv("CSV/dados_usuarios.csv", sep=",")
 
 X = dados.drop(columns=['status_pedido']) 
 y = dados['status_pedido'] 
