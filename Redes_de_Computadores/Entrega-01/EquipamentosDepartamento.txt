@@ -2,11 +2,11 @@ Equipamentos:
 
 Administração e Operações:
 
-Computadores e equipamentos de escritório (mesas, cadeiras, armários).
-Impressoras, scanners e outros dispositivos de escritório.
-Software de gestão empresarial (ERP) para controle financeiro, recursos humanos e operações.
-Telefones e sistemas de comunicação interna.
-Mobiliário para salas de reuniões e áreas de descanso.
+Computadores e equipamentos de escritório (mesas, cadeiras, armários). 
+Impressoras, scanners e outros dispositivos de escritório. 
+Software de gestão empresarial (ERP).
+Telefones e sistemas de comunicação interna. 
+
 
 
 Atendimento ao Cliente e Logística Reversa:
